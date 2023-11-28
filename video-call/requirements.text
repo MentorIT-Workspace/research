@@ -1,13 +1,14 @@
-#Requirements for providing a video call feature in our app
+# Requirements for providing a video call feature in our app
 
-##1 User interface
+## 1 User interface
 1.1 User interface displaying the videos and camera/mic options.
 
-##2 connection
+## 2 connection
 2.1 A connection between the users browsers directly or through a third party?
-2.2 RTC, Real-Time Communication.
-- https://developer.mozilla.org/en-US/docs/Web/API/RTCPeerConnection
+2.2 RTC, Real-Time Communication/RTCPeerConnection.
+- https://developer.mozilla.org/en-US/docs/Web/API/RTCPeerConnection 
+- A challange with changing IP adresses?
 
-##3 Data handling and costs
+## 3 Data handling and costs
 3.1 Third party options
 - https://www.zegocloud.com/pricing?index=5
